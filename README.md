@@ -2,7 +2,9 @@
 
 ### mod0 is an undefined, modular machine platform
 
-This project is a work in progress. Files are provided as-is for research purposes only. **Expect files to be continuously changing.**
+- *This project is a work in progress*
+- *Modules will be added as they are physically validated*
+- *Expect files to change*
 
 ## Platform goals
 

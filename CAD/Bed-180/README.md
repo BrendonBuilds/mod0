@@ -4,4 +4,4 @@
 - *Expect files to change*
 - *A drag chain will be added in the near future*
 
-![](bed-render.PNG)
+![](bed-render.png)

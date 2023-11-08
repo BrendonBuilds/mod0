@@ -7,6 +7,7 @@
 ## BOM
 
 - 10mm Beads - https://www.amazon.com/dp/B0BB29FDZJ
+- Magnets - https://mandalaroseworks.com/products/chamfered-magnet-150c
 - Springs - borrowed from E3D Titan Extruders
 
 ![](bed-render.png)

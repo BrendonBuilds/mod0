@@ -8,7 +8,8 @@
 
 ## Platform goals
 
-- Simple assembly
+- Extremely simple assembly that will result in precise control with minimal calibration
+- Support for any combination of steppers (NEMA14/17), electronics (RRF/Klipper) and extruders
 - Subcomponents can be assembled and calibrated independently
 - Subcomponents can be separated for travel and quickly reassembled
 - Packs flat for travel while staying mostly assembled
@@ -24,6 +25,4 @@ Feeling appreciative? Pay it forward! Consider supporting one of these charities
 
 ![](rear-render.png)
 
-
-
-
+![](Art/mod0-github-link-qr.png)

@@ -24,5 +24,3 @@ Feeling appreciative? Pay it forward! Consider supporting one of these charities
 ![](front-render.png)
 
 ![](rear-render.png)
-
-![](Art/mod0-github-link-qr.png)

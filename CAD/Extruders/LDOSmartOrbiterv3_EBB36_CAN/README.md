@@ -1,0 +1,19 @@
+# LDOSmartOrbiterv3_EBB36_CAN_magZ-v1
+
+- *This project is a work in progress*
+- *Expect files to change*
+
+## BOM
+
+- Magnetic Connectors - https://www.adafruit.com/product/5360
+- Limit Switch - https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2GW-A02D/15963578
+- Micro-Fit Cable - https://www.digikey.com/en/products/detail/molex/2451320420/6565375
+
+## Reference Models
+
+- EBB 36 Toolboards
+  - https://github.com/bigtreetech/EBB
+- LDO Smart Orbiter v3:
+  - https://www.orbiterprojects.com/so3/
+
+![](LDOSmartOrbiterv3_EBB36_CAN_magZ.png)

@@ -12,6 +12,6 @@
 - 10mm Shaft Collar
   - https://www.amazon.com/gp/product/B0C9QTP89C
 - IGUS slewing ring
--   https://www.igus.com/product?artNr=PRT-02-20-LC
+  - https://www.igus.com/product?artNr=PRT-02-20-LC
 
 ![](mod0-open5x-v1.png)

@@ -1,4 +1,4 @@
-# mod0-b-axis-v1
+# mod0-a-axis-v1
 
 - *This project is a work in progress*
 - *Expect files to change*
@@ -14,4 +14,4 @@
 - C10 Collet Chuck
   - https://www.amazon.com/gp/product/B082HWYT5V
 
-![](mod0-b-axis-16mm-22mm-holder-v1.png)
+![](mod0-a-axis-16mm-22mm-holder-v1.png)

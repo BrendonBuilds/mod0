@@ -3,8 +3,6 @@
 - *This project is a work in progress*
 - *Expect files to change*
 
-# mod0-xy-175-v3
-
 ## BOM
 
 - Target Discs - https://www.digikey.com/en/products/detail/preci-dip/52051-1P0/22227123

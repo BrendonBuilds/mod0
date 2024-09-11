@@ -21,3 +21,8 @@ Uncoiling the springs and feeding them through the channels can be challenging, 
 - Shoulder Bolts - 25mm (M4 thread) - https://www.filastruder.com/products/shoulder-screws-bolts?_pos=1&_sid=d9d5dbbc5&_ss=r&variant=16712544124999
 
 ![](mod0-xy-180-can-rails.png)
+
+## MOVIES
+
+### XY motion test
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eCRtHgMv8g4/0.jpg)](https://www.youtube.com/watch?v=eCRtHgMv8g4)

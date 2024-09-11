@@ -1,11 +1,11 @@
-# mod0-xy-175
+# mod0-xy-180
 
 - *The folder has been renamed to XY-180, every variant in this folder has always had 180x180mm of travel*
 - *v1 & v2 files will not be renamed '-180' despite sharing an identical x/y plate with every variant in this folder*
 - *This project is a work in progress*
 - *Expect files to change*
 
-# mod0-xy-175-v3
+# mod0-xy-180-v3
 
 ## BOM
 
